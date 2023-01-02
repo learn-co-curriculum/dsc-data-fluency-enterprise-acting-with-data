@@ -63,3 +63,9 @@ The CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely-used 
 
 The CRISP-DM framework provides a structured and systematic approach for managing data mining/analysis projects, and has been widely adopted by organizations in a variety of industries.
 
+## Assessment/learning check questions
+
+1. What process do you and/or your team(s) use when acquiring and working with data?
+2. How often do you have a chance to reflect on previous data analyses you and/or your team(s) have done or that have been presented to you?
+3. Do your teams use top-down (hypothesis-driven) or bottom-up (data-driven) solutions?
+
