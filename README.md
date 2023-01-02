@@ -39,9 +39,13 @@ Lastly, you'll see some common strategies and steps for helping your team work w
 
 ### Action Research Cycle
 
+![Action Research Cycle](https://user-images.githubusercontent.com/9215614/210280429-4f50b135-3acd-47b4-9695-594b1971808c.png)
+
 There is an important paradigm called the action research cycle that you might have seen before. It relates to how projects are rarely linear. You are constantly cycling through as you have new results or assumptions you had aren't quite met. You might think you have everything planned just right, but when you get to acting you see that your trials lead you to rethink your plan. After you observe you might see that the data won't actually be able to solve the problem at hand and you need to reframe. At the very end, you should come back and revisit your planning to see how you'd change things if you were to do it all over again.
 
 ### DIKW pyramid
+
+![dikw](https://user-images.githubusercontent.com/9215614/210280462-8eae28c3-d8c0-49b9-8cb6-2a7ed6aab23f.png)
 
 The DIKW pyramid, also known as the Knowledge Hierarchy, is a model that represents the stages of converting data into knowledge. The acronym DIKW stands for data, information, knowledge, and wisdom. The pyramid is a visual representation of this hierarchy, with data at the base, followed by information, knowledge, and wisdom at the top.
 
@@ -55,6 +59,8 @@ The steps in the DIKW pyramid are:
 The DIKW pyramid is often used as a framework for understanding how data is transformed into useful knowledge and how that knowledge can be applied to solve problems and make decisions.
 
 ### CRISP-DM
+
+![CRISP-DM Framework](https://user-images.githubusercontent.com/9215614/210280492-2a7b0f7d-8e7c-44c8-85bc-69d87da049be.png)
 
 The CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely-used data mining process model that provides a structured approach for data mining projects. It consists of six phases:
 
