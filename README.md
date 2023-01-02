@@ -5,6 +5,7 @@ So far in the course, we've outlined strategies and techniques for collecting, s
 ## Data-driven decision making
 
 Decision making and taking actions based on data involves a process called data-driven decision making. This process involves the following steps:
+
   1. Define the problem or opportunity: Identify the issue or opportunity that needs to be addressed. It is important to be specific and clearly define the problem or opportunity, as this will help to focus the data collection and analysis efforts.
   2. Collect the data: Gather relevant data from internal and external sources to help inform the decision. This may include data from company databases, market research, customer feedback, or other sources. It is important to ensure that the data is accurate and up-to-date, and to consider any potential biases or limitations in the data.
   3. Analyze the data: Use statistical analysis and other data analysis techniques to uncover insights and patterns in the data. This may involve using tools such as Excel or specialized software like Tableau or R. The goal is to identify trends, correlations, and other patterns that can help to inform the decision-making process.
@@ -19,6 +20,7 @@ By following this process, organizations can make more informed decisions and ta
 Making decisions with data effectively is often closely tied with convincing others of these decisions and the reasons for taking them. This involves data storytelling and techniques for improving that narrative.
 
 Telling a story with data can be a powerful way to communicate information and persuade an audience. However, it's important to do it effectively in order to get your message across. Here are some tips for telling a story with data:
+
   1. Start with a clear goal in mind: What do you want to accomplish by telling this story? Who is your audience and what background can you assume from them? What do you want your audience to learn or understand? Having a clear goal will help you focus your story and choose the right data to support it.
   2. Choose the right data: Select data that is relevant to your story and supports your argument. Avoid using too much data or data that is not directly related to your story, as it can distract from your main message.
   3. Organize your data: Arrange your data in a logical order that follows a clear narrative. This can help your audience follow your story and understand the main points you are trying to make.
@@ -44,6 +46,7 @@ There is an important paradigm called the action research cycle that you might h
 The DIKW pyramid, also known as the Knowledge Hierarchy, is a model that represents the stages of converting data into knowledge. The acronym DIKW stands for data, information, knowledge, and wisdom. The pyramid is a visual representation of this hierarchy, with data at the base, followed by information, knowledge, and wisdom at the top.
 
 The steps in the DIKW pyramid are:
+
   - Data: Raw, unorganized facts.
   - Information: Data that has been processed and organized into a meaningful form.
   - Knowledge: Information that has been interpreted and understood, allowing it to be used to inform decision making.
@@ -54,6 +57,7 @@ The DIKW pyramid is often used as a framework for understanding how data is tran
 ### CRISP-DM
 
 The CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely-used data mining process model that provides a structured approach for data mining projects. It consists of six phases:
+
   1. Business Understanding: In this phase, the goal is to understand the project objectives and requirements from a business perspective, and to identify the data mining goals and the appropriate data mining techniques to be used.
   2. Data Understanding: In this phase, the goal is to collect and explore the data in order to get a better understanding of it. This includes collecting and documenting the data, and performing initial analyses to identify trends and patterns.
   3. Data Preparation: In this phase, the goal is to clean and prepare the data for modeling. This includes handling missing or invalid data, formatting data, and creating derived variables.
@@ -62,10 +66,4 @@ The CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely-used 
   6. Deployment: In this phase, the goal is to plan for the deployment of the data mining results. This may include creating a plan for integrating the results into the organization's processes, as well as providing ongoing support for the data mining solution.
 
 The CRISP-DM framework provides a structured and systematic approach for managing data mining/analysis projects, and has been widely adopted by organizations in a variety of industries.
-
-## Assessment/learning check questions
-
-1. What process do you and/or your team(s) use when acquiring and working with data?
-2. How often do you have a chance to reflect on previous data analyses you and/or your team(s) have done or that have been presented to you?
-3. Do your teams use top-down (hypothesis-driven) or bottom-up (data-driven) solutions?
 
