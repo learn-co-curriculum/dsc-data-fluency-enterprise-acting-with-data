@@ -1,6 +1,6 @@
 # Data Fluency - Acting with Data
 
-So far in the course, we've outlined strategies and techniques for collecting, storing, and analyzing data and interpreting the results of this data from our business perspective. Ultimately, we want to be able to further convert this interpretation into ways that we can make decisions that lead to success.
+So far in the course, you have learned strategies and techniques for collecting, storing, and analyzing data as well as interpreting the results of this data from your business perspective. Ultimately, you want to be able to further convert this interpretation into ways that you can make decisions that lead to success.
 
 ## Data-driven decision making
 
